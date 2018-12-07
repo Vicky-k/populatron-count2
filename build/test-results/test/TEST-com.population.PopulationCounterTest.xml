@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.population.PopulationCounterTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-12-07T01:07:17" hostname="MacBook-Air.local" time="3.646">
+  <properties/>
+  <testcase name="testSomeLibraryMethod" classname="com.population.PopulationCounterTest" time="3.646"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
